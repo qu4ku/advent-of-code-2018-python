@@ -1,5 +1,5 @@
 """
-day 02:
+day 03:
 https://adventofcode.com/2018/day/3
 """
 
