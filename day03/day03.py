@@ -53,6 +53,7 @@ fabric = propagate_fabric(1000, data)
 print(how_many_double_covered(fabric))  # 110546
 
 
+# Second part
 for i, item in enumerate(data):
 	flag = True
 	for x in range(item['left'], item['left'] + item['width']):
